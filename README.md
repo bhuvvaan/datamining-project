@@ -9,3 +9,5 @@ In Web_Scraping_and_API_Data. The data extraction using the API takes about 45 m
 Website is a file that contains the link of the website. 
 
 Rest all are data files 
+
+DM_ProjReport_M3.pdf is the report for Milestone 3
