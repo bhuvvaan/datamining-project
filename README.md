@@ -10,4 +10,4 @@ Website is a file that contains the link of the website.
 
 Rest all are data files 
 
-DM_ProjReport_M3.pdf is the report for Milestone 3
+DM_Milestone3_Report.pdf is the report for Milestone 3
