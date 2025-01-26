@@ -10,4 +10,6 @@ In ```web_scraping_and_api_data.ipynb```, the data extraction using the API take
 
 Rest all are data files. 
 
+![presentation](presentation.png)
+
 
