@@ -1,13 +1,13 @@
-Milestone 3 code is available in DM_Milestone_3.ipynb. It contains four models. It directly uses fin_data.csv created in the last milestone.
+# CLTV clustering of e-commerce data
 
-DM_ProjReport_M2.pdf is the report 
+Customer lifetime value is an important problem in e-commerce for multiple reasons. In this repository we explore different methods to tackle that problem and present our insights. For a broad understanding of CLTV, refer to the [website](https://sites.google.com/colorado.edu/cltv/introduction).
 
-Web_Scraping_and_API_Data_1.ipynb and DM_Milestone_2_CLTV_final_M2.ipynb are the code files which need to be run in that order. 
+The final code can be found at ```cltv_clustering.ipynb```. For detailed expalnation of the problem and solution approach refer to ```Report.pdf```. 
 
-In Web_Scraping_and_API_Data. The data extraction using the API takes about 45 mins to extract all the data according to the zipcodes. 
+```web_scraping_and_api_data.ipynb``` and ```preprocessing_data.ipynb``` are the code files which need to be run in that order. 
 
-Website is a file that contains the link of the website. 
+In ```web_scraping_and_api_data.ipynb```, the data extraction using the API takes about 45 mins to extract all the data according to the zipcodes.  
 
-Rest all are data files 
+Rest all are data files. 
 
-DM_Milestone3_Report.pdf is the report for Milestone 3
+
